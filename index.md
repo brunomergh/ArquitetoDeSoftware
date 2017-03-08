@@ -1,6 +1,6 @@
 ## Arquiteto de Software
 
-Olá;
+Olá,
 
 Hoje iremos saber um pouco mais a respeito do Arquiteto de Software.
 

@@ -4,7 +4,7 @@ Olá,
 
 Hoje iremos saber um pouco mais a respeito do Arquiteto de Software.
 
-![GitHub Logo](http://www.dissemine.com.br/novo/wp-content/uploads/2015/10/g-arquiteto-software.png)
+![Arquiteto de Software](http://www.dissemine.com.br/novo/wp-content/uploads/2015/10/g-arquiteto-software.png)
 
 O arquiteto de software é responsável por resolver os problemas relacionados ao negócio da empresa com uma visão estratégica, também é responsável por organizar toda a estrutura de um software, como por exemplo:
 
